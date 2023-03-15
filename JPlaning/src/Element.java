@@ -4,6 +4,15 @@ public class Element {
     private String value;
     private String endTag=">";
     private String finTag="</";
+    private Attribute[] attributes;
+
+    public Attribute[] getAttributes() {
+        return attributes;
+    }
+
+    public void setAttributes(Attribute[] attributes) {
+        this.attributes = attributes;
+    }
 
     public Element(String value) {
         this.value = value;
