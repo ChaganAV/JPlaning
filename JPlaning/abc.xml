@@ -1,0 +1,1437 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<newdocs>
+  <importdoc>
+    <datebegin>2022-01-01T00:00:00</datebegin>
+    <dateend>2022-12-31T00:00:00</dateend>
+    <typefinans>Бюджет</typefinans>
+    <regnum>Бюджет</regnum>
+    <otdelenie />
+    <prochee>ПП ПАРУС</prochee>
+    <sostav>
+      <str>
+        <prep />
+        <count>167.000</count>
+        <price>4857</price>
+        <summa>811119</summa>
+        <ven>N</ven>
+        <name>АЗАЛЕПТИН 100 мг № 150</name>
+      </str>
+      <str>
+        <prep>87306</prep>
+        <count>2500.000</count>
+        <price>277</price>
+        <summa>692500</summa>
+        <ven>N</ven>
+        <name>ХЛОРПРОМАЗИН ДРАЖЕ 100 МГ №10</name>
+      </str>
+      <str>
+        <prep>2021-0017282</prep>
+        <count>4000.000</count>
+        <price>141.55</price>
+        <summa>566200</summa>
+        <ven>N</ven>
+        <name>Хлорпромазин Органика табл.п.п.о. 25 мг N 10 (88)</name>
+      </str>
+      <str>
+        <prep />
+        <count>400.000</count>
+        <price>1389</price>
+        <summa>555600</summa>
+        <ven>N</ven>
+        <name>АЗАЛЕПТИН 25 мг № 150</name>
+      </str>
+      <str>
+        <prep>999940</prep>
+        <count>370.000</count>
+        <price>1146.6</price>
+        <summa>424242</summa>
+        <ven>N</ven>
+        <name>Рокона таб 100 мг N30</name>
+      </str>
+      <str>
+        <prep>89243</prep>
+        <count>2500.000</count>
+        <price>168.25</price>
+        <summa>420625</summa>
+        <ven>N</ven>
+        <name>ХЛОРПРОМАЗИН ДРАЖЕ 50 МГ №10</name>
+      </str>
+      <str>
+        <prep>999940</prep>
+        <count>680.000</count>
+        <price>534.43</price>
+        <summa>363415.5</summa>
+        <ven>N</ven>
+        <name>Рокона таб 50 мг N15</name>
+      </str>
+      <str>
+        <prep>74042</prep>
+        <count>2000.000</count>
+        <price>149.7</price>
+        <summa>299400</summa>
+        <ven>N</ven>
+        <name>ЭЛЗЕПАМ Р-Р Д/И 1 МГ/МЛ АМП 1 МЛ №10</name>
+      </str>
+      <str>
+        <prep>85942</prep>
+        <count>370.000</count>
+        <price>798.54</price>
+        <summa>295458</summa>
+        <ven>N</ven>
+        <name>КВЕТИАПИН ТАБ П/О 100 МГ №60</name>
+      </str>
+      <str>
+        <prep>33996</prep>
+        <count>200.000</count>
+        <price>1339.2</price>
+        <summa>267840</summa>
+        <ven>N</ven>
+        <name>КЛОПИКСОЛ АКУФАЗ Р-Р Д/И МАСЛ 50 МГ/МЛ АМП 1 МЛ №5</name>
+      </str>
+      <str>
+        <prep>61045</prep>
+        <count>1000.000</count>
+        <price>255</price>
+        <summa>255000</summa>
+        <ven>N</ven>
+        <name>МЕКСИДОЛ ТАБ П/О 125 МГ №30</name>
+      </str>
+      <str>
+        <prep />
+        <count>550.000</count>
+        <price>461.67</price>
+        <summa>253916.16</summa>
+        <ven>N</ven>
+        <name>УМИФЕНОВИР  100мг №20</name>
+      </str>
+      <str>
+        <prep>79588</prep>
+        <count>175.000</count>
+        <price>1270</price>
+        <summa>222250</summa>
+        <ven>N</ven>
+        <name>ТЕРАЛИДЖЕН ТАБ П/О 5 МГ №50</name>
+      </str>
+      <str>
+        <prep>2021-0005026</prep>
+        <count>220.000</count>
+        <price>960</price>
+        <summa>211200</summa>
+        <ven>N</ven>
+        <name>Рокона табл.п.п.о. 100 мг N 30</name>
+      </str>
+      <str>
+        <prep>91331</prep>
+        <count>900.000</count>
+        <price>229.02</price>
+        <summa>206115</summa>
+        <ven>N</ven>
+        <name>РИСПЕРИДОН -ОРГАНИКА ТАБ П/О 2 МГ №20</name>
+      </str>
+      <str>
+        <prep>82891</prep>
+        <count>1500.000</count>
+        <price>133</price>
+        <summa>199500</summa>
+        <ven>N</ven>
+        <name>ТРАНКВЕЗИПАМ ТАБ 1 МГ №50</name>
+      </str>
+      <str>
+        <prep>33995</prep>
+        <count>100.000</count>
+        <price>1822.5</price>
+        <summa>182250</summa>
+        <ven>N</ven>
+        <name>КЛОПИКСОЛ ДЕПО Р-Р Д/И МАСЛ 200 МГ/МЛ АМП 1 МЛ №10</name>
+      </str>
+      <str>
+        <prep>14817</prep>
+        <count>600.000</count>
+        <price>270</price>
+        <summa>162000</summa>
+        <ven>N</ven>
+        <name>ПИКАМИЛОН Р-Р Д/И 10% АМП 2 МЛ №10</name>
+      </str>
+      <str>
+        <prep>98965</prep>
+        <count>125.000</count>
+        <price>1270</price>
+        <summa>158750</summa>
+        <ven>N</ven>
+        <name>ТЕРАЛИДЖЕН -ВАЛЕНТА ТАБ П/О 5 МГ №100</name>
+      </str>
+      <str>
+        <prep>91603</prep>
+        <count>300.000</count>
+        <price>438</price>
+        <summa>131400</summa>
+        <ven>N</ven>
+        <name>АТОРИС ТАБ П/О 30 МГ №30</name>
+      </str>
+      <str>
+        <prep>89747</prep>
+        <count>300.000</count>
+        <price>431.56</price>
+        <summa>129468.08</summa>
+        <ven>N</ven>
+        <name>ТИЛОРОН КАПС 125 МГ №10</name>
+      </str>
+      <str>
+        <prep>90293</prep>
+        <count>300.000</count>
+        <price>427.43</price>
+        <summa>128228</summa>
+        <ven>N</ven>
+        <name>ГЕНФЕРОН ЛАЙТ СПРЕЙ НАЗ 50000 МЕ +1 МГ 100 ДОЗ ФЛ</name>
+      </str>
+      <str>
+        <prep>85631</prep>
+        <count>100.000</count>
+        <price>1210</price>
+        <summa>121000</summa>
+        <ven>N</ven>
+        <name>ЦЕФТРИАКСОН ПОР Д/И 500 МГ ФЛ №50</name>
+      </str>
+      <str>
+        <prep>82877</prep>
+        <count>143.000</count>
+        <price>785.32</price>
+        <summa>112300.16</summa>
+        <ven>N</ven>
+        <name>НАТРИЯ ХЛОРИД Р-Р Д/ИНФ 0.9% ФЛ 200 МЛ №28</name>
+      </str>
+      <str>
+        <prep>4271</prep>
+        <count>600.000</count>
+        <price>172.4</price>
+        <summa>103440</summa>
+        <ven>N</ven>
+        <name>АМИНАЗИН Р-Р Д/И 2.5% АМП 2 МЛ №10</name>
+      </str>
+      <str>
+        <prep>2021-0008901</prep>
+        <count>400.000</count>
+        <price>253.25</price>
+        <summa>101300</summa>
+        <ven>N</ven>
+        <name>Гопантеновая кислота табл. 250 мг N 50</name>
+      </str>
+      <str>
+        <prep>61385</prep>
+        <count>120.000</count>
+        <price>830.96</price>
+        <summa>99715</summa>
+        <ven>N</ven>
+        <name>КОРТЕКСИН ПОР Д/И 5 МГ ФЛ 3 МЛ №10</name>
+      </str>
+      <str>
+        <prep>85943</prep>
+        <count>100.000</count>
+        <price>984</price>
+        <summa>98400</summa>
+        <ven>N</ven>
+        <name>КВЕТИАПИН ТАБ П/О 200 МГ №60</name>
+      </str>
+      <str>
+        <prep>65655</prep>
+        <count>500.000</count>
+        <price>189.45</price>
+        <summa>94725</summa>
+        <ven>N</ven>
+        <name>ЭНКОРАТ ХРОНО ТАБ П/О КОНТР.ВЫСВ. 500 МГ №30</name>
+      </str>
+      <str>
+        <prep>106036</prep>
+        <count>200.000</count>
+        <price>465.16</price>
+        <summa>93032.8</summa>
+        <ven>N</ven>
+        <name>КЛОМИПРАМИН Р-Р Д/И 12.5 МГ/МЛ АМП 2 МЛ №10</name>
+      </str>
+      <str>
+        <prep>74035</prep>
+        <count>100.000</count>
+        <price>914.48</price>
+        <summa>91447.75</summa>
+        <ven>N</ven>
+        <name>ТРИЛЕПТАЛ ТАБ П/О 600 МГ №50</name>
+      </str>
+      <str>
+        <prep>1046</prep>
+        <count>500.000</count>
+        <price>171</price>
+        <summa>85500</summa>
+        <ven>N</ven>
+        <name>ПИКАМИЛОН ТАБ 50 МГ №30</name>
+      </str>
+      <str>
+        <prep>102029</prep>
+        <count>70.000</count>
+        <price>1210.2</price>
+        <summa>84714</summa>
+        <ven>N</ven>
+        <name>АКРИДЕРМ ГК КРЕМ ТУБА 30 Г</name>
+      </str>
+      <str>
+        <prep>62531</prep>
+        <count>300.000</count>
+        <price>277</price>
+        <summa>83100</summa>
+        <ven>N</ven>
+        <name>СЕДАЛИТ ТАБ 300 МГ №50</name>
+      </str>
+      <str>
+        <prep />
+        <count>100.000</count>
+        <price>814</price>
+        <summa>81400</summa>
+        <ven>N</ven>
+        <name>СЕРОКВЕЛЬ 25 мг№60</name>
+      </str>
+      <str>
+        <prep>101013</prep>
+        <count>1000.000</count>
+        <price>77.75</price>
+        <summa>77750</summa>
+        <ven>N</ven>
+        <name>ГИДРОКСИЗИН -КАНОН ТАБ П/О 25 МГ №25</name>
+      </str>
+      <str>
+        <prep>1567</prep>
+        <count>400.000</count>
+        <price>180</price>
+        <summa>72000</summa>
+        <ven>N</ven>
+        <name>ХЛОРПРОТИКСЕН ТАБ П/О 15 МГ №30</name>
+      </str>
+      <str>
+        <prep />
+        <count>100.000</count>
+        <price>714.10</price>
+        <summa>71409.7</summa>
+        <ven>N</ven>
+        <name>ИНГАВЕРИН капс. 90мг № 10</name>
+      </str>
+      <str>
+        <prep>7783</prep>
+        <count>500.000</count>
+        <price>141</price>
+        <summa>70500</summa>
+        <ven>N</ven>
+        <name>ПИКАМИЛОН ТАБ 20 МГ №30</name>
+      </str>
+      <str>
+        <prep>82410</prep>
+        <count>100.000</count>
+        <price>682.5</price>
+        <summa>68250</summa>
+        <ven>N</ven>
+        <name>РЕАМБЕРИН Р-Р Д/ИНФ 1.5% ФЛ 250 МЛ</name>
+      </str>
+      <str>
+        <prep>102773</prep>
+        <count>30.000</count>
+        <price>2245.94</price>
+        <summa>67378.17</summa>
+        <ven>N</ven>
+        <name>БРИНТЕЛЛИКС ТАБ П/О 10 МГ №28</name>
+      </str>
+      <str>
+        <prep>45372</prep>
+        <count>70.000</count>
+        <price>941.04</price>
+        <summa>65872.9</summa>
+        <ven>N</ven>
+        <name>ТРИТТИКО ТАБ РЕТАРД 150 МГ №20</name>
+      </str>
+      <str>
+        <prep>100300</prep>
+        <count>500.000</count>
+        <price>130.9</price>
+        <summa>65450</summa>
+        <ven>N</ven>
+        <name>КАРБАМАЗЕПИН ТАБ 200 МГ №40</name>
+      </str>
+      <str>
+        <prep>82166</prep>
+        <count>400.000</count>
+        <price>155</price>
+        <summa>62000</summa>
+        <ven>N</ven>
+        <name>СУЛЬПИРИД Р-Р Д/И 50 МГ/МЛ АМП 2 МЛ №10</name>
+      </str>
+      <str>
+        <prep>65824</prep>
+        <count>500.000</count>
+        <price>121.35</price>
+        <summa>60675</summa>
+        <ven>N</ven>
+        <name>ЭНКОРАТ ХРОНО ТАБ П/О КОНТР.ВЫСВ. 300 МГ №30</name>
+      </str>
+      <str>
+        <prep />
+        <count>209.000</count>
+        <price>273.66</price>
+        <summa>57194.94</summa>
+        <ven>N</ven>
+        <name>НЕУЛЕПТИЛ 4% 30мл</name>
+      </str>
+      <str>
+        <prep>86837</prep>
+        <count>270.000</count>
+        <price>204.53</price>
+        <summa>55224</summa>
+        <ven>N</ven>
+        <name>ТОЛПЕРИЗОН -OBL ТАБ П/О 150 МГ №30</name>
+      </str>
+      <str>
+        <prep />
+        <count>20.000</count>
+        <price>2698.27</price>
+        <summa>53965.4</summa>
+        <ven>N</ven>
+        <name>СЕРОКВЕЛЬ ПРОЛОНГ ТАБ П\О 300 МГ № 60</name>
+      </str>
+      <str>
+        <prep>42996</prep>
+        <count>500.000</count>
+        <price>103.35</price>
+        <summa>51675</summa>
+        <ven>N</ven>
+        <name>МЕКСИДОЛ Р-Р Д/И 50 МГ/МЛ АМП 2 МЛ №10</name>
+      </str>
+      <str>
+        <prep>97867</prep>
+        <count>200.000</count>
+        <price>250.8</price>
+        <summa>50160</summa>
+        <ven>N</ven>
+        <name>МЕМАНТИНОЛ ТАБ П/О 10 МГ №30</name>
+      </str>
+      <str>
+        <prep>6530</prep>
+        <count>264.000</count>
+        <price>189</price>
+        <summa>49896</summa>
+        <ven>N</ven>
+        <name>КАРБАМАЗЕПИН ТАБ 200 МГ №50</name>
+      </str>
+      <str>
+        <prep>85360</prep>
+        <count>200.000</count>
+        <price>240.8</price>
+        <summa>48160</summa>
+        <ven>N</ven>
+        <name>АЛЕВАЛ ТАБ П/О 50 МГ №28</name>
+      </str>
+      <str>
+        <prep>77197</prep>
+        <count>200.000</count>
+        <price>237</price>
+        <summa>47400</summa>
+        <ven>N</ven>
+        <name>ПАРОКСЕТИН ТАБ П/О 20 МГ №30</name>
+      </str>
+      <str>
+        <prep>85359</prep>
+        <count>200.000</count>
+        <price>235.48</price>
+        <summa>47096</summa>
+        <ven>N</ven>
+        <name>АЛЕВАЛ ТАБ П/О 100 МГ №14</name>
+      </str>
+      <str>
+        <prep>3082</prep>
+        <count>500.000</count>
+        <price>90.24</price>
+        <summa>45120</summa>
+        <ven>N</ven>
+        <name>ПИРАЦЕТАМ Р-Р Д/И 20% АМП 5 МЛ №10</name>
+      </str>
+      <str>
+        <prep>71313</prep>
+        <count>1000.000</count>
+        <price>44.18</price>
+        <summa>44180</summa>
+        <ven>N</ven>
+        <name>АМИТРИПТИЛИН Р-Р Д/И 10 МГ/МЛ АМП 2 МЛ №10</name>
+      </str>
+      <str>
+        <prep>82159</prep>
+        <count>100.000</count>
+        <price>428.86</price>
+        <summa>42886</summa>
+        <ven>N</ven>
+        <name>ЛЕВОФЛОКСАЦИН ТАБ П/О 500 МГ №10</name>
+      </str>
+      <str>
+        <prep>86836</prep>
+        <count>270.000</count>
+        <price>154.67</price>
+        <summa>41760</summa>
+        <ven>N</ven>
+        <name>ТОЛПЕРИЗОН -OBL ТАБ П/О 50 МГ №30</name>
+      </str>
+      <str>
+        <prep>89849</prep>
+        <count>1200.000</count>
+        <price>34.5</price>
+        <summa>41400</summa>
+        <ven>N</ven>
+        <name>ГЛИЦИН -ОЗОН ТАБ СУБЛИНГВ 100 МГ №50</name>
+      </str>
+      <str>
+        <prep>75696</prep>
+        <count>70.000</count>
+        <price>589.8</price>
+        <summa>41286</summa>
+        <ven>N</ven>
+        <name>АКРИДЕРМ ГЕНТА КРЕМ ТУБА 30 Г</name>
+      </str>
+      <str>
+        <prep />
+        <count>200.000</count>
+        <price>199.92</price>
+        <summa>39984</summa>
+        <ven>N</ven>
+        <name>ЗОЛАФРЕН КВИК табл.дисп. п\р 5 мг № 28</name>
+      </str>
+      <str>
+        <prep>82552</prep>
+        <count>20.000</count>
+        <price>1994</price>
+        <summa>39880</summa>
+        <ven>N</ven>
+        <name>АМИКАЦИН ПОР Д/И 500 МГ ФЛ №50</name>
+      </str>
+      <str>
+        <prep>999994</prep>
+        <count>300.000</count>
+        <price>130</price>
+        <summa>39000</summa>
+        <ven>N</ven>
+        <name>ИОНОПЛАЗМ Р-Р Д/ИНФ ФЛ 500 МЛ №1</name>
+      </str>
+      <str>
+        <prep>82958</prep>
+        <count>950.000</count>
+        <price>39.6</price>
+        <summa>37620</summa>
+        <ven>N</ven>
+        <name>ПИРИДОКСИН Р-Р Д/И 50 МГ/МЛ АМП 1 МЛ №10</name>
+      </str>
+      <str>
+        <prep>103285</prep>
+        <count>450.000</count>
+        <price>81.09</price>
+        <summa>36490.61</summa>
+        <ven>N</ven>
+        <name>ТРИГЕКСИФЕНИДИЛ -ОРГАНИКА ТАБ 2 МГ №50</name>
+      </str>
+      <str>
+        <prep>18663</prep>
+        <count>300.000</count>
+        <price>116.3</price>
+        <summa>34890</summa>
+        <ven>N</ven>
+        <name>АМОКСИЦИЛЛИН ТАБ 500 МГ №20</name>
+      </str>
+      <str>
+        <prep>94474</prep>
+        <count>2.000</count>
+        <price>17058.99</price>
+        <summa>34117.98</summa>
+        <ven>N</ven>
+        <name>КСЕПЛИОН СУСП Д/И ПРОЛОНГ 100 МГ/МЛ ШПР 0.75 МЛ №1</name>
+      </str>
+      <str>
+        <prep>93728</prep>
+        <count>200.000</count>
+        <price>169.58</price>
+        <summa>33916</summa>
+        <ven>N</ven>
+        <name>ХЛОРПРОМАЗИНА ГИДРОХЛОРИД Р-Р Д/И 25 МГ/МЛ АМП 2 МЛ №10</name>
+      </str>
+      <str>
+        <prep>54153</prep>
+        <count>70.000</count>
+        <price>464</price>
+        <summa>32480</summa>
+        <ven>N</ven>
+        <name>КОРТЕКСИН ПОР Д/И 10 МГ ФЛ 5 МЛ №10</name>
+      </str>
+      <str>
+        <prep>86398</prep>
+        <count>400.000</count>
+        <price>78.75</price>
+        <summa>31500</summa>
+        <ven>N</ven>
+        <name>СУЛЬПИРИД ТАБ 50 МГ №30</name>
+      </str>
+      <str>
+        <prep>2022-0007593</prep>
+        <count>43.000</count>
+        <price>721</price>
+        <summa>31003</summa>
+        <ven>N</ven>
+        <name>Цефиксим Экспресс табл.дисперг. 400 мг N 7</name>
+      </str>
+      <str>
+        <prep>74034</prep>
+        <count>100.000</count>
+        <price>305.9</price>
+        <summa>30590</summa>
+        <ven>N</ven>
+        <name>ТРИЛЕПТАЛ ТАБ П/О 150 МГ №50</name>
+      </str>
+      <str>
+        <prep>4244</prep>
+        <count>1000.000</count>
+        <price>30.08</price>
+        <summa>30080</summa>
+        <ven>N</ven>
+        <name>ЦИАНОКОБАЛАМИН Р-Р Д/И 500 МКГ АМП 1 МЛ №10</name>
+      </str>
+      <str>
+        <prep />
+        <count>200.000</count>
+        <price>150.08</price>
+        <summa>30016</summa>
+        <ven>N</ven>
+        <name>ЗОЛАФРЕН КВИК табл.дисп. п\р 10 мг № 28</name>
+      </str>
+      <str>
+        <prep>48573</prep>
+        <count>300.000</count>
+        <price>96.28</price>
+        <summa>28883.16</summa>
+        <ven>N</ven>
+        <name>ГАЛОПЕРИДОЛ -РАТИОФАРМ КАПЛИ ОРАЛ 2 МГ/МЛ ФЛ 30 МЛ</name>
+      </str>
+      <str>
+        <prep>2021-0014339</prep>
+        <count>20.000</count>
+        <price>1399.5</price>
+        <summa>27990</summa>
+        <ven>N</ven>
+        <name>Самеликс лиоф.д/р-ра в/в и в/м введ. 400 мг N 5 с р-лем(36)</name>
+      </str>
+      <str>
+        <prep>48591</prep>
+        <count>200.000</count>
+        <price>139.38</price>
+        <summa>27876</summa>
+        <ven>N</ven>
+        <name>СУЛЬПИРИД ТАБ 200 МГ №30</name>
+      </str>
+      <str>
+        <prep>76857</prep>
+        <count>70.000</count>
+        <price>369</price>
+        <summa>25830</summa>
+        <ven>N</ven>
+        <name>ЛАМОТРИДЖИН ТАБ 50 МГ №30</name>
+      </str>
+      <str>
+        <prep>3675</prep>
+        <count>500.000</count>
+        <price>51.65</price>
+        <summa>25825</summa>
+        <ven>N</ven>
+        <name>МАГНИЯ СУЛЬФАТ Р-Р Д/И 250 МГ/МЛ АМП 10 МЛ №10</name>
+      </str>
+      <str>
+        <prep>2389</prep>
+        <count>700.000</count>
+        <price>36.88</price>
+        <summa>25816</summa>
+        <ven>N</ven>
+        <name>АМИТРИПТИЛИН ТАБ 25 МГ №50</name>
+      </str>
+      <str>
+        <prep>1964</prep>
+        <count>530.000</count>
+        <price>48.05</price>
+        <summa>25465.3</summa>
+        <ven>N</ven>
+        <name>СПИРОНОЛАКТОН ТАБ 25 МГ №20</name>
+      </str>
+      <str>
+        <prep />
+        <count>25.000</count>
+        <price>1011.6</price>
+        <summa>25290</summa>
+        <ven>N</ven>
+        <name>ТРИМЕКТАЛ ОД таб.п\о плен. с пролонг.высвоб. 80 мг № 60</name>
+      </str>
+      <str>
+        <prep>90710</prep>
+        <count>100.000</count>
+        <price>243.27</price>
+        <summa>24327</summa>
+        <ven>N</ven>
+        <name>КЛАРИТРОМИЦИН ТАБ П/О 500 МГ №10</name>
+      </str>
+      <str>
+        <prep>4239</prep>
+        <count>3.000</count>
+        <price>8076</price>
+        <summa>24228</summa>
+        <ven>N</ven>
+        <name>ФЕРРУМ ЛЕК Р-Р Д/И 100 МГ АМП 2 МЛ №50</name>
+      </str>
+      <str>
+        <prep>6070</prep>
+        <count>800.000</count>
+        <price>30</price>
+        <summa>24000</summa>
+        <ven>N</ven>
+        <name>ЦИТРАМОН П ТАБ №10</name>
+      </str>
+      <str>
+        <prep>2022-0016463</prep>
+        <count>20.000</count>
+        <price>1175.48</price>
+        <summa>23509.6</summa>
+        <ven>N</ven>
+        <name>Самеликс табл.к/р.п.п.о. 400 мг N 20 (36)</name>
+      </str>
+      <str>
+        <prep>95737</prep>
+        <count>100.000</count>
+        <price>231</price>
+        <summa>23100</summa>
+        <ven>N</ven>
+        <name>ВЕНЛАФАКСИН ТАБ 75 МГ №30</name>
+      </str>
+      <str>
+        <prep>82728</prep>
+        <count>40.000</count>
+        <price>576</price>
+        <summa>23040</summa>
+        <ven>N</ven>
+        <name>ГЛЮКОЗА -Э Р-Р Д/ИНФ 5% ФЛ 400 МЛ № 15</name>
+      </str>
+      <str>
+        <prep>2305</prep>
+        <count>40.000</count>
+        <price>551</price>
+        <summa>22040</summa>
+        <ven>N</ven>
+        <name>СЕНАДЕ ТАБ №500</name>
+      </str>
+      <str>
+        <prep>2022-0006537</prep>
+        <count>100.000</count>
+        <price>218.69</price>
+        <summa>21869</summa>
+        <ven>N</ven>
+        <name>КомплигамВ р-р для в/м введ. 2 мл N 10 (120)</name>
+      </str>
+      <str>
+        <prep />
+        <count>120.000</count>
+        <price>178.43</price>
+        <summa>21411.6</summa>
+        <ven>N</ven>
+        <name>ХЛОРГЕКСИДИН СПИРТ.Р-Р Д/НАРУЖН ПРИМ.0,5% 1 Л</name>
+      </str>
+      <str>
+        <prep>4987</prep>
+        <count>130.000</count>
+        <price>155.42</price>
+        <summa>20204</summa>
+        <ven>N</ven>
+        <name>КАЛЬЦИЯ ГЛЮКОНАТ Р-Р Д/И 10% АМП 10 МЛ №10</name>
+      </str>
+      <str>
+        <prep>93986</prep>
+        <count>488.000</count>
+        <price>41.26</price>
+        <summa>20134.88</summa>
+        <ven>N</ven>
+        <name>ТЕРМОПСОЛ ТАБ №20</name>
+      </str>
+      <str>
+        <prep>4213</prep>
+        <count>400.000</count>
+        <price>50.3</price>
+        <summa>20120</summa>
+        <ven>N</ven>
+        <name>НАТРИЯ ХЛОРИД Р-Р Д/И 0.9% АМП 10 МЛ №10</name>
+      </str>
+      <str>
+        <prep />
+        <count>30.000</count>
+        <price>630</price>
+        <summa>18900</summa>
+        <ven>N</ven>
+        <name>АМАНТАДИН 0,4 мг/мл  500 мл</name>
+      </str>
+      <str>
+        <prep>3551</prep>
+        <count>350.000</count>
+        <price>53.25</price>
+        <summa>18636.5</summa>
+        <ven>N</ven>
+        <name>НОВОКАИН Р-Р Д/И 0.5% АМП 5 МЛ №10</name>
+      </str>
+      <str>
+        <prep>71786</prep>
+        <count>200.000</count>
+        <price>87.2</price>
+        <summa>17440</summa>
+        <ven>N</ven>
+        <name>ВИНПОЦЕТИН Р-Р Д/ИНФ КОНЦ 5 МГ/МЛ АМП 2 МЛ №10</name>
+      </str>
+      <str>
+        <prep>100261</prep>
+        <count>300.000</count>
+        <price>57</price>
+        <summa>17100</summa>
+        <ven>N</ven>
+        <name>ХЛОРОПИРАМИН ТАБ 25 МГ №20</name>
+      </str>
+      <str>
+        <prep>30344</prep>
+        <count>400.000</count>
+        <price>42.72</price>
+        <summa>17088</summa>
+        <ven>N</ven>
+        <name>ОМЕПРАЗОЛ КАПС 20 МГ №30</name>
+      </str>
+      <str>
+        <prep>6613</prep>
+        <count>500.000</count>
+        <price>33</price>
+        <summa>16500</summa>
+        <ven>N</ven>
+        <name>АСКОРБИНОВАЯ КИСЛОТА -ВИАЛ Р-Р Д/И 50 МГ/МЛ АМП 2 МЛ №10</name>
+      </str>
+      <str>
+        <prep>921</prep>
+        <count>200.000</count>
+        <price>82</price>
+        <summa>16400</summa>
+        <ven>N</ven>
+        <name>НИКОТИНОВАЯ КИСЛОТА Р-Р Д/И 1% АМП 1 МЛ №10</name>
+      </str>
+      <str>
+        <prep>94996</prep>
+        <count>100.000</count>
+        <price>137.55</price>
+        <summa>13755</summa>
+        <ven>N</ven>
+        <name>МЕТФОРМИН ТАБ 1000 МГ №60</name>
+      </str>
+      <str>
+        <prep>911</prep>
+        <count>50.000</count>
+        <price>274.92</price>
+        <summa>13746</summa>
+        <ven>N</ven>
+        <name>НЕУЛЕПТИЛ КАПС 10 МГ №50</name>
+      </str>
+      <str>
+        <prep>19815</prep>
+        <count>1000.000</count>
+        <price>13.7</price>
+        <summa>13700</summa>
+        <ven>N</ven>
+        <name>ЭНАЛАПРИЛ ТАБ 10 МГ №20</name>
+      </str>
+      <str>
+        <prep>6080</prep>
+        <count>50.000</count>
+        <price>269.12</price>
+        <summa>13456</summa>
+        <ven>N</ven>
+        <name>ПАНТЕНОЛ АЭР 5% 58 Г БАЛ</name>
+      </str>
+      <str>
+        <prep>78437</prep>
+        <count>100.000</count>
+        <price>130.40</price>
+        <summa>13039.5</summa>
+        <ven>N</ven>
+        <name>АКРИДЕРМ МАЗЬ ТУБА 30 Г</name>
+      </str>
+      <str>
+        <prep>54683</prep>
+        <count>20.000</count>
+        <price>630</price>
+        <summa>12600</summa>
+        <ven>N</ven>
+        <name>АКРИДЕРМ СК МАЗЬ ТУБА 30 Г</name>
+      </str>
+      <str>
+        <prep>82040</prep>
+        <count>350.000</count>
+        <price>35.7</price>
+        <summa>12495</summa>
+        <ven>N</ven>
+        <name>БИСОПРОЛОЛ ТАБ П/О 5 МГ №30</name>
+      </str>
+      <str>
+        <prep>12954</prep>
+        <count>400.000</count>
+        <price>30.8</price>
+        <summa>12320</summa>
+        <ven>N</ven>
+        <name>ВОДА ДЛЯ ИНЪЕКЦИЙ Р-Р-ЛЬ Д/ПРИГ.ЛЕК.ФОРМ Д/И АМП 5 МЛ №10</name>
+      </str>
+      <str>
+        <prep>34534</prep>
+        <count>250.000</count>
+        <price>47.5</price>
+        <summa>11875</summa>
+        <ven>N</ven>
+        <name>ФЛУОКСЕТИН КАПС 20 МГ №20</name>
+      </str>
+      <str>
+        <prep>2022-0010626</prep>
+        <count>25.000</count>
+        <price>462</price>
+        <summa>11550</summa>
+        <ven>N</ven>
+        <name>Спарекс капс.с пролонг.высвоб. 200 мг N 60 /15х4/</name>
+      </str>
+      <str>
+        <prep>83246</prep>
+        <count>350.000</count>
+        <price>29.70</price>
+        <summa>10396.5</summa>
+        <ven>N</ven>
+        <name>АМЛОДИПИН -ПРАНА ТАБ 10 МГ №30</name>
+      </str>
+      <str>
+        <prep>82048</prep>
+        <count>150.000</count>
+        <price>62.8</price>
+        <summa>9420</summa>
+        <ven>N</ven>
+        <name>ДРОТАВЕРИН ТАБ 40 МГ №100</name>
+      </str>
+      <str>
+        <prep>85931</prep>
+        <count>84.000</count>
+        <price>110.4</price>
+        <summa>9273.6</summa>
+        <ven>N</ven>
+        <name>ДИАБЕФАРМ МВ ТАБ МВ 30 МГ №60</name>
+      </str>
+      <str>
+        <prep>79870</prep>
+        <count>20.000</count>
+        <price>463.02</price>
+        <summa>9260.4</summa>
+        <ven>N</ven>
+        <name>ТОРЕНДО КУ-ТАБ ТАБ Д/РАССАС 1 МГ №30</name>
+      </str>
+      <str>
+        <prep>96588</prep>
+        <count>50.000</count>
+        <price>183</price>
+        <summa>9150</summa>
+        <ven>N</ven>
+        <name>ВАЛСАРТАН ТАБ П/О 80 МГ №30</name>
+      </str>
+      <str>
+        <prep>3725</prep>
+        <count>200.000</count>
+        <price>45</price>
+        <summa>9000</summa>
+        <ven>N</ven>
+        <name>ФУРАЗОЛИДОН ТАБ 50 МГ №10</name>
+      </str>
+      <str>
+        <prep>27279</prep>
+        <count>70.000</count>
+        <price>121.98</price>
+        <summa>8538.6</summa>
+        <ven>N</ven>
+        <name>ДЕКСАМЕТАЗОН Р-Р Д/И 4 МГ/МЛ АМП 2 МЛ №10</name>
+      </str>
+      <str>
+        <prep />
+        <count>282.000</count>
+        <price>30.08</price>
+        <summa>8482.56</summa>
+        <ven>N</ven>
+        <name>РИНОСТОП 0,1%-10МЛ</name>
+      </str>
+      <str>
+        <prep>21555</prep>
+        <count>700.000</count>
+        <price>12.1</price>
+        <summa>8470</summa>
+        <ven>N</ven>
+        <name>ХЛОРГЕКСИДИНА БИГЛЮКОНАТ Р-Р 0.05% ФЛ 100 МЛ</name>
+      </str>
+      <str>
+        <prep>4199</prep>
+        <count>5.000</count>
+        <price>1624.25</price>
+        <summa>8121.25</summa>
+        <ven>N</ven>
+        <name>ГЕПАРИН Р-Р Д/И 5000 МЕ/МЛ ФЛ 5 МЛ №5</name>
+      </str>
+      <str>
+        <prep>2523</prep>
+        <count>200.000</count>
+        <price>40</price>
+        <summa>8000</summa>
+        <ven>N</ven>
+        <name>ЛИДОКАИН Р-Р Д/И 20 МГ/МЛ АМП 2 МЛ №10</name>
+      </str>
+      <str>
+        <prep>5446</prep>
+        <count>50.000</count>
+        <price>154</price>
+        <summa>7700</summa>
+        <ven>N</ven>
+        <name>КОРДИАМИН Р-Р Д/И 25% АМП 2 МЛ №10</name>
+      </str>
+      <str>
+        <prep>364</prep>
+        <count>200.000</count>
+        <price>38.13</price>
+        <summa>7626</summa>
+        <ven>N</ven>
+        <name>ГЛЮКОЗА Р-Р Д/И 40% АМП 10 МЛ №10</name>
+      </str>
+      <str>
+        <prep>102113</prep>
+        <count>80.000</count>
+        <price>95.19</price>
+        <summa>7615.2</summa>
+        <ven>N</ven>
+        <name>ГЛИКЛАЗИД МВ ТАБ МВ 60 МГ №30</name>
+      </str>
+      <str>
+        <prep>78567</prep>
+        <count>250.000</count>
+        <price>29.72</price>
+        <summa>7431</summa>
+        <ven>N</ven>
+        <name>ИНДАПАМИД РЕТАРД ТАБ П/О ПРОЛОНГ 1.5 МГ №30</name>
+      </str>
+      <str>
+        <prep>8181</prep>
+        <count>200.000</count>
+        <price>36.64</price>
+        <summa>7328</summa>
+        <ven>N</ven>
+        <name>МЕТРОНИДАЗОЛ ТАБ 250 МГ №20</name>
+      </str>
+      <str>
+        <prep />
+        <count>2.000</count>
+        <price>3599.4</price>
+        <summa>7198.8</summa>
+        <ven>N</ven>
+        <name>КАЛИДАВИР 200 мг+ 50 мг № 60</name>
+      </str>
+      <str>
+        <prep>88979</prep>
+        <count>40.000</count>
+        <price>178.4</price>
+        <summa>7136</summa>
+        <ven>N</ven>
+        <name>ХЛОРГЕКСИДИНА БИГЛЮКОНАТ ДЕЗ. СР-ВО Р-Р СПИРТ 0.5% ФЛ 1 Л</name>
+      </str>
+      <str>
+        <prep>84432</prep>
+        <count>150.000</count>
+        <price>47.4</price>
+        <summa>7110</summa>
+        <ven>N</ven>
+        <name>БИСОПРОЛОЛ ТАБ П/О 10 МГ №50</name>
+      </str>
+      <str>
+        <prep>3703</prep>
+        <count>80.000</count>
+        <price>83.96</price>
+        <summa>6716.8</summa>
+        <ven>N</ven>
+        <name>ЭУФИЛЛИН Р-Р Д/И 24 МГ/МЛ АМП 10 МЛ №10</name>
+      </str>
+      <str>
+        <prep>94607</prep>
+        <count>50.000</count>
+        <price>133.8</price>
+        <summa>6690</summa>
+        <ven>N</ven>
+        <name>ПРЕДНИЗОЛОН -БУФУС Р-Р Д/И 30 МГ/МЛ АМП 1 МЛ №10</name>
+      </str>
+      <str>
+        <prep>21933</prep>
+        <count>586.000</count>
+        <price>10.9</price>
+        <summa>6387.4</summa>
+        <ven>N</ven>
+        <name>ЭНАЛАПРИЛ ТАБ 5 МГ №20</name>
+      </str>
+      <str>
+        <prep>2683</prep>
+        <count>420.000</count>
+        <price>14.8</price>
+        <summa>6216</summa>
+        <ven>N</ven>
+        <name>АЦЕТИЛСАЛИЦИЛОВАЯ КИСЛОТА ТАБ 500 МГ №10</name>
+      </str>
+      <str>
+        <prep>82692</prep>
+        <count>196.000</count>
+        <price>30.8</price>
+        <summa>6036.8</summa>
+        <ven>N</ven>
+        <name>ТРИГЕКСИФЕНИДИЛ ТАБ 2 МГ №50</name>
+      </str>
+      <str>
+        <prep>33997</prep>
+        <count>25.000</count>
+        <price>240</price>
+        <summa>6000</summa>
+        <ven>N</ven>
+        <name>КЛОПИКСОЛ ТАБ П/О 10 МГ №50</name>
+      </str>
+      <str>
+        <prep>1952</prep>
+        <count>200.000</count>
+        <price>30</price>
+        <summa>6000</summa>
+        <ven>N</ven>
+        <name>РЕВИТ ДРАЖЕ №100</name>
+      </str>
+      <str>
+        <prep>2873</prep>
+        <count>1000.000</count>
+        <price>6</price>
+        <summa>6000</summa>
+        <ven>N</ven>
+        <name>УГОЛЬ АКТИВИРОВАННЫЙ ТАБ 250 МГ №10</name>
+      </str>
+      <str>
+        <prep>84570</prep>
+        <count>100.000</count>
+        <price>59.46</price>
+        <summa>5946</summa>
+        <ven>N</ven>
+        <name>БЕТАГИСТИН ТАБ 24 МГ №30</name>
+      </str>
+      <str>
+        <prep>12403</prep>
+        <count>150.000</count>
+        <price>39.26</price>
+        <summa>5889</summa>
+        <ven>N</ven>
+        <name>ФУРОСЕМИД Р-Р Д/И 1% АМП 2 МЛ №10</name>
+      </str>
+      <str>
+        <prep />
+        <count>50.000</count>
+        <price>116.39</price>
+        <summa>5819.5</summa>
+        <ven>N</ven>
+        <name>ДЕКСАМЕТАЗОН р-р д\ин 4 мг\мл 2 мл № 10 амп</name>
+      </str>
+      <str>
+        <prep>5272</prep>
+        <count>500.000</count>
+        <price>11.3</price>
+        <summa>5650</summa>
+        <ven>N</ven>
+        <name>ПЕРЕКИСЬ ВОДОРОДА Р-Р 3% ФЛ 100 МЛ</name>
+      </str>
+      <str>
+        <prep>4791</prep>
+        <count>40.000</count>
+        <price>129.2</price>
+        <summa>5168</summa>
+        <ven>N</ven>
+        <name>БЕНЗОНАЛ ТАБ 100 МГ №50</name>
+      </str>
+      <str>
+        <prep />
+        <count>10.000</count>
+        <price>513.96</price>
+        <summa>5139.6</summa>
+        <ven>N</ven>
+        <name>БИОСУЛИН  Р  100 МЕ/мл 10 мл</name>
+      </str>
+      <str>
+        <prep>2556</prep>
+        <count>500.000</count>
+        <price>10.2</price>
+        <summa>5100</summa>
+        <ven>N</ven>
+        <name>ПАРАЦЕТАМОЛ ТАБ 500 МГ №10</name>
+      </str>
+      <str>
+        <prep>94967</prep>
+        <count>2.000</count>
+        <price>2490.3</price>
+        <summa>4980.6</summa>
+        <ven>N</ven>
+        <name>ЭЛИКВИС ТАБ П/О 5 МГ №60</name>
+      </str>
+      <str>
+        <prep>2022-0014228</prep>
+        <count>30.000</count>
+        <price>155.98</price>
+        <summa>4679.4</summa>
+        <ven>N</ven>
+        <name>Кеторолак р-р для в/в и в/м введ. 30 мг/мл 2 мл N 10 (100)</name>
+      </str>
+      <str>
+        <prep />
+        <count>100.000</count>
+        <price>46</price>
+        <summa>4600</summa>
+        <ven>N</ven>
+        <name>ЛЕВОМЕТИЛ МАЗЬ Д\НАРУЖ.ПРИМ. 40,0 (65)</name>
+      </str>
+      <str>
+        <prep>80188</prep>
+        <count>50.000</count>
+        <price>87.26</price>
+        <summa>4363</summa>
+        <ven>N</ven>
+        <name>ХЛОРОПИРАМИН Р-Р Д/И 20 МГ/МЛ АМП 1 МЛ №5</name>
+      </str>
+      <str>
+        <prep>11037</prep>
+        <count>60.000</count>
+        <price>63.39</price>
+        <summa>3803.4</summa>
+        <ven>N</ven>
+        <name>АДРЕНАЛИН Р-Р Д/И 0.1% АМП 1 МЛ №5</name>
+      </str>
+      <str>
+        <prep>102209</prep>
+        <count>20.000</count>
+        <price>180</price>
+        <summa>3600</summa>
+        <ven>N</ven>
+        <name>ТОРАСЕМИД -КАНОН ТАБ 10 МГ №20</name>
+      </str>
+      <str>
+        <prep>23720</prep>
+        <count>100.000</count>
+        <price>35.27</price>
+        <summa>3527</summa>
+        <ven>N</ven>
+        <name>ЦИПРОФЛОКСАЦИН ТАБ П/О 500 МГ №10</name>
+      </str>
+      <str>
+        <prep>72759</prep>
+        <count>70.000</count>
+        <price>48.97</price>
+        <summa>3427.9</summa>
+        <ven>N</ven>
+        <name>ОФЛОКСАЦИН ТАБ П/О 400 МГ №10</name>
+      </str>
+      <str>
+        <prep>10928</prep>
+        <count>100.000</count>
+        <price>32.51</price>
+        <summa>3251</summa>
+        <ven>N</ven>
+        <name>АСКОРУТИН ТАБ №50</name>
+      </str>
+      <str>
+        <prep>85603</prep>
+        <count>50.000</count>
+        <price>63.44</price>
+        <summa>3172</summa>
+        <ven>N</ven>
+        <name>ДРОТАВЕРИН -ЭЛЛАРА Р-Р Д/И 20 МГ/МЛ АМП 2 МЛ №10</name>
+      </str>
+      <str>
+        <prep />
+        <count>50.000</count>
+        <price>59.46</price>
+        <summa>2973</summa>
+        <ven>N</ven>
+        <name>МЕТФОРМИН Канон ппо 500 мг № 60</name>
+      </str>
+      <str>
+        <prep>30145</prep>
+        <count>150.000</count>
+        <price>18.76</price>
+        <summa>2814</summa>
+        <ven>N</ven>
+        <name>КАПТОПРИЛ ТАБ 25 МГ №40</name>
+      </str>
+      <str>
+        <prep>100448</prep>
+        <count>100.000</count>
+        <price>27.2</price>
+        <summa>2720</summa>
+        <ven>N</ven>
+        <name>ФУРАЦИЛИН ТАБ Д/Р-РА 20 МГ №20</name>
+      </str>
+      <str>
+        <prep>3738</prep>
+        <count>50.000</count>
+        <price>50.25</price>
+        <summa>2512.5</summa>
+        <ven>N</ven>
+        <name>ГИДРОКОРТИЗОН МАЗЬ 1% ТУБА 15 Г</name>
+      </str>
+      <str>
+        <prep>102216</prep>
+        <count>20.000</count>
+        <price>120.3</price>
+        <summa>2406</summa>
+        <ven>N</ven>
+        <name>ТОРАСЕМИД -КАНОН ТАБ 5 МГ №20</name>
+      </str>
+      <str>
+        <prep />
+        <count>120.000</count>
+        <price>20</price>
+        <summa>2400</summa>
+        <ven>N</ven>
+        <name>АММИАК Р-Р Д\НАРУЖ\ИНГ 10% 100МЛ (56)</name>
+      </str>
+      <str>
+        <prep>8119</prep>
+        <count>50.000</count>
+        <price>40.49</price>
+        <summa>2024.5</summa>
+        <ven>N</ven>
+        <name>КОФЕИН-БЕНЗОАТ НАТРИЯ Р-Р Д/И 20% АМП 1 МЛ №10</name>
+      </str>
+      <str>
+        <prep>15078</prep>
+        <count>50.000</count>
+        <price>40.11</price>
+        <summa>2005.5</summa>
+        <ven>N</ven>
+        <name>ДИКЛОФЕНАК -АКОС Р-Р Д/И 75 МГ АМП 3 МЛ №10</name>
+      </str>
+      <str>
+        <prep>4169</prep>
+        <count>50.000</count>
+        <price>39.6</price>
+        <summa>1980</summa>
+        <ven>N</ven>
+        <name>ПИРИДОКСИНА ГИДРОХЛОРИД (ВИТ.В-6) Р-Р Д/И 5% АМП 1 МЛ №10</name>
+      </str>
+      <str>
+        <prep>9807</prep>
+        <count>25.000</count>
+        <price>76.66</price>
+        <summa>1916.5</summa>
+        <ven>N</ven>
+        <name>НАТРИЯ ТИОСУЛЬФАТ Р-Р Д/И 30% АМП 10 МЛ №10</name>
+      </str>
+      <str>
+        <prep>15930</prep>
+        <count>50.000</count>
+        <price>38</price>
+        <summa>1900</summa>
+        <ven>N</ven>
+        <name>СУЛЬФАЦИЛ-НАТРИЯ КАПЛИ ГЛ 20% ФЛ-КАП 10 МЛ</name>
+      </str>
+      <str>
+        <prep>28277</prep>
+        <count>15.000</count>
+        <price>125.4</price>
+        <summa>1881</summa>
+        <ven>N</ven>
+        <name>ПЕНТОКСИФИЛЛИН ТАБ П/О 100 МГ №60</name>
+      </str>
+      <str>
+        <prep>2022-0006494</prep>
+        <count>20.000</count>
+        <price>77.48</price>
+        <summa>1549.6</summa>
+        <ven>N</ven>
+        <name>Стелфрин р-р д/ин. 10 мг/мл 1 мл N 10 (88)</name>
+      </str>
+      <str>
+        <prep>1113</prep>
+        <count>15.000</count>
+        <price>78.6</price>
+        <summa>1179</summa>
+        <ven>N</ven>
+        <name>ПРОЗЕРИН Р-Р Д/И 0.05% АМП 1 МЛ №10</name>
+      </str>
+      <str>
+        <prep>1077</prep>
+        <count>15.000</count>
+        <price>74.94</price>
+        <summa>1124.1</summa>
+        <ven>N</ven>
+        <name>ПЛАТИФИЛЛИНА ГИДРОТАРТРАТ Р-Р Д/И 2 МГ/МЛ АМП 1 МЛ №10</name>
+      </str>
+      <str>
+        <prep>88964</prep>
+        <count>96.000</count>
+        <price>11.32</price>
+        <summa>1086.72</summa>
+        <ven>N</ven>
+        <name>ПЕРЕКИСЬ ВОДОРОДА ДЕЗ. СР-ВО Р-Р 3% ФЛ ПЛАСТ. 100 МЛ</name>
+      </str>
+      <str>
+        <prep>71</prep>
+        <count>20.000</count>
+        <price>50.78</price>
+        <summa>1015.6</summa>
+        <ven>N</ven>
+        <name>АМИНОКАПРОНОВАЯ КИСЛОТА Р-Р Д/ИНФ 50 МГ/МЛ ФЛ 100 МЛ №1</name>
+      </str>
+      <str>
+        <prep>2350</prep>
+        <count>30.000</count>
+        <price>30.65</price>
+        <summa>919.5</summa>
+        <ven>N</ven>
+        <name>ФУРОСЕМИД ТАБ 40 МГ №50</name>
+      </str>
+      <str>
+        <prep>54198</prep>
+        <count>50.000</count>
+        <price>16.65</price>
+        <summa>832.5</summa>
+        <ven>N</ven>
+        <name>ВЕРО-ФЛУКОНАЗОЛ КАПС 150 МГ №1</name>
+      </str>
+      <str>
+        <prep>137</prep>
+        <count>15.000</count>
+        <price>45.14</price>
+        <summa>677.1</summa>
+        <ven>N</ven>
+        <name>АТРОПИНА СУЛЬФАТ Р-Р Д/И 0.1% АМП 1 МЛ №10</name>
+      </str>
+      <str>
+        <prep>71308</prep>
+        <count>28.000</count>
+        <price>23</price>
+        <summa>644</summa>
+        <ven>N</ven>
+        <name>МЕТРОНИДАЗОЛ -АКОС Р-Р Д/ИНФ 5 МГ/МЛ ФЛ 100 МЛ</name>
+      </str>
+      <str>
+        <prep>24391</prep>
+        <count>10.000</count>
+        <price>63.98</price>
+        <summa>639.8</summa>
+        <ven>N</ven>
+        <name>МЕТОКЛОПРАМИД Р-Р Д/И 5 МГ/МЛ АМП 2 МЛ №10</name>
+      </str>
+      <str>
+        <prep>18540</prep>
+        <count>10.000</count>
+        <price>36.9</price>
+        <summa>369</summa>
+        <ven>N</ven>
+        <name>ДИГОКСИН ТАБ 250 МКГ №30</name>
+      </str>
+    </sostav>
+  </importdoc>
+</newdocs>

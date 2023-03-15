@@ -4,15 +4,17 @@ public class Person {
     private String firstname;
     private String secondname;
     private String lastname;
-    private Date birthday;
+    //private Date birthday;
 
-    public Person(String firstname, String secondname, String lastname,Date birthday) {
+    public Person(String firstname, String secondname, String lastname) {
         this.firstname = firstname;
         this.secondname = secondname;
         this.lastname = lastname;
-        this.birthday = birthday;
+        //this.birthday = birthday;
     }
+    public Person(){
 
+    }
     public String getFirstname() {
         return firstname;
     }
@@ -37,16 +39,16 @@ public class Person {
         this.lastname = lastname;
     }
 
-    public Date getBirthday() {
-        return birthday;
-    }
-
-    public void setBirthday(Date birthday) {
-        this.birthday = birthday;
-    }
+//    public Date getBirthday() {
+//        return birthday;
+//    }
+//
+//    public void setBirthday(Date birthday) {
+//        this.birthday = birthday;
+//    }
 
     @Override
     public String toString() {
-        return String.format("%s %s %s, %s год рождения",this.firstname,this.secondname,this.lastname,this.birthday.toString());
+        return String.format("%s %s %s",this.firstname,this.secondname,this.lastname);
     }
 }
