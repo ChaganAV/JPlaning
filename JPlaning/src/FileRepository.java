@@ -2,7 +2,7 @@ import java.io.File;
 import java.io.IOException;
 import java.nio.file.Path;
 
-public class FileRepository implements IFileRepository{
+public class FileRepository implements IRepository{
     private String dir;
     private String filename;
     private File file;
@@ -13,7 +13,7 @@ public class FileRepository implements IFileRepository{
     }
 
     @Override
-    public void setFile() throws IOException {
+    public void setData() throws IOException {
         this.file = new File(this.dir,this.filename);
         if(!file.exists()){
             file.createNewFile();

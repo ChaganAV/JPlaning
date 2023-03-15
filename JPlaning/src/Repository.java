@@ -3,9 +3,9 @@ import java.util.List;
 
 public class Repository {
     List<Line> repository = new ArrayList<>();
-    IFileRepository file;
+    IRepository file;
 
-    public Repository(IFileRepository repository) {
+    public Repository(IRepository repository) {
         this.file = repository;
     }
 }
