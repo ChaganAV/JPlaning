@@ -1,17 +1,16 @@
 import java.io.*;
-import java.sql.Date;
-import java.sql.Time;
 import java.time.LocalDate;
+import java.time.LocalTime;
 import java.util.ArrayList;
 import java.util.List;
 
-public class FileRepository implements IRepository{
+public class CvsRepository implements IRepository{
     private String dir;
     private String filename;
     private File file;
     private List<Line> lines;
 
-    public FileRepository(String dir,String filename) {
+    public CvsRepository(String dir,String filename) {
         this.dir = dir;
         this.filename = filename;
     }
@@ -32,10 +31,12 @@ public class FileRepository implements IRepository{
                     String[] s = br.readLine().split(";");
                     line.setId(Integer.parseInt(s[0]));
                     line.setDate(LocalDate.parse(s[1]));
-                    line.setNote(s[2]);
-                    line.setDeadline(LocalDate.parse(s[3]));
+                    line.setLevel(Integer.parseInt(s[2]));
+                    line.setTime(LocalTime.parse(s[3]));
+                    line.setNote(s[4]);
+                    line.setDeadline(LocalDate.parse(s[5]));
                     Person person = new Person();
-                    String[] p = s[4].split(" ");
+                    String[] p = s[6].split(" ");
                     person.setFirstname(p[0]);
                     person.setSecondname(p[1]);
                     person.setLastname(p[2]);
@@ -50,8 +51,7 @@ public class FileRepository implements IRepository{
         return lines;
     }
 
-    @Override
-    public void unloadData() throws IOException{
+    public void unloadData(List<Line> lines) throws IOException{
         try {
             this.file = new File(this.dir, this.filename);
             if (!file.exists()) {
@@ -61,9 +61,10 @@ public class FileRepository implements IRepository{
             OutputStreamWriter ow = new OutputStreamWriter(fs,"windows-1251");
             //FileWriter fw = new FileWriter(file);
             BufferedWriter bw = new BufferedWriter(ow);
-            for(Line l: this.lines){
+            for(Line l: lines){
                 String s = String.format("%d;%s;%d;%s;%s;%s;%s;",l.getId(),l.getDate().toString(),l.getLevel(),l.getTime().toString(),l.getNote(),l.getDeadline().toString(),l.getAutor());
                 bw.write(s);
+                bw.newLine();
             }
             bw.close();
         }catch (IOException e){

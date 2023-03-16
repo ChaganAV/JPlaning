@@ -9,14 +9,8 @@ public class Main {
     public static void main(String[] args){
         App app = new App();
 
-        try {
-            app.start();
-            app.add();
-            app.select();
-            app.save();
-
-        }catch (IOException e) {
-            throw new RuntimeException(e);
-        }
+        app.start();
+        View view = new View();
+        view.run(app);
     }
 }
