@@ -13,23 +13,10 @@ public class App implements IApp{
     public void addSetting(Setting setting){
         this.setting = setting;
     }
-    public void add(){
+    public void add(Line l){
         List<Line> lines = repository.getRepository();
-        Line line = new Line();
+        Line line = l;
         line.setId(lines.size()+1);
-        LocalDate date = LocalDate.now();
-        line.setDate(date);
-        LocalTime time = LocalTime.now();
-        line.setTime(time);
-        line.setLevel(2);
-        line.setNote("Доделать отчет по закупкам");
-        LocalDate deadline = date.plusDays(7);
-        line.setDeadline(deadline);
-        Person person = new Person();
-        person.setFirstname("Александр");
-        person.setSecondname("Сергеевич");
-        person.setLastname("Пушкин");
-        line.setAutor(person);
         lines.add(line);
     }
     public void update(int item){
