@@ -1,6 +1,7 @@
 import java.io.*;
 import java.sql.Date;
 import java.sql.Time;
+import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -8,31 +9,33 @@ public class FileRepository implements IRepository{
     private String dir;
     private String filename;
     private File file;
+    private List<Line> lines;
 
     public FileRepository(String dir,String filename) {
         this.dir = dir;
         this.filename = filename;
     }
-
+    public void setData(List<Line> lines){
+        this.lines = lines;
+    }
     @Override
     public List<Line> loadData() throws IOException{
         List<Line> lines = new ArrayList<>();
         try {
             this.file = new File(this.dir, this.filename);
             if (file.exists()) {
-                FileReader fr = new FileReader(file);
-                BufferedReader br = new BufferedReader(fr);
-                //Map<Integer,Line> lines = new HashMap<Integer,Line>();
+                FileInputStream fs = new FileInputStream(file);
+                InputStreamReader iw = new InputStreamReader(fs,"windows-1251");
+                BufferedReader br = new BufferedReader(iw);
                 while (br.ready()){
                     Line line = new Line();
                     String[] s = br.readLine().split(";");
                     line.setId(Integer.parseInt(s[0]));
-                    line.setDate(Date.valueOf(s[1]));
-                    //line.setTime(Time.valueOf(s[2]));
-                    line.setNote(s[3]);
-                    line.setDeadline(Date.valueOf(s[4]));
+                    line.setDate(LocalDate.parse(s[1]));
+                    line.setNote(s[2]);
+                    line.setDeadline(LocalDate.parse(s[3]));
                     Person person = new Person();
-                    String[] p = s[5].split(" ");
+                    String[] p = s[4].split(" ");
                     person.setFirstname(p[0]);
                     person.setSecondname(p[1]);
                     person.setLastname(p[2]);
@@ -43,12 +46,12 @@ public class FileRepository implements IRepository{
         }catch (IOException e){
             System.out.println(e.getMessage());
         }
+        this.lines = lines;
         return lines;
     }
 
     @Override
-    public void unloadData(List lines) throws IOException{
-        List<Line> list = lines;
+    public void unloadData() throws IOException{
         try {
             this.file = new File(this.dir, this.filename);
             if (!file.exists()) {
@@ -58,8 +61,8 @@ public class FileRepository implements IRepository{
             OutputStreamWriter ow = new OutputStreamWriter(fs,"windows-1251");
             //FileWriter fw = new FileWriter(file);
             BufferedWriter bw = new BufferedWriter(ow);
-            for(Line l: list){
-                String s = String.format("%s;%s;%s;%s;%s;",l.getId(),l.getDate(),l.getNote(),l.getDeadline(),l.getAutor());
+            for(Line l: this.lines){
+                String s = String.format("%d;%s;%d;%s;%s;%s;%s;",l.getId(),l.getDate().toString(),l.getLevel(),l.getTime().toString(),l.getNote(),l.getDeadline().toString(),l.getAutor());
                 bw.write(s);
             }
             bw.close();

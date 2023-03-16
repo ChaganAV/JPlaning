@@ -10,4 +10,12 @@ public class Repository {
 
         this.repository = repository.loadData();
     }
+
+    public List<Line> getRepository() {
+        return repository;
+    }
+
+    public void setRepository(List<Line> repository) {
+        this.repository = repository;
+    }
 }

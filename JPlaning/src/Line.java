@@ -1,11 +1,15 @@
 import java.sql.Time;
+import java.time.LocalDate;
+import java.time.LocalTime;
 import java.util.Date;
 
 public class Line {
     private int id;
-    private Date date;
+    private LocalDate date;
+    private LocalTime time;
+    private int level;
     private String note;
-    private Date deadline;
+    private LocalDate deadline;
     private Person autor;
 
     public int getId() {
@@ -15,12 +19,26 @@ public class Line {
     public void setId(int id) {
         this.id = id;
     }
+    public int getLevel() {
+        return level;
+    }
 
-    public Date getDate() {
+    public LocalTime getTime() {
+        return time;
+    }
+
+    public void setTime(LocalTime time) {
+        this.time = time;
+    }
+
+    public void setLevel(int level) {
+        this.level = level;
+    }
+    public LocalDate getDate() {
         return date;
     }
 
-    public void setDate(Date date) {
+    public void setDate(LocalDate date) {
         this.date = date;
     }
 
@@ -32,11 +50,11 @@ public class Line {
         this.note = note;
     }
 
-    public Date getDeadline() {
+    public LocalDate getDeadline() {
         return deadline;
     }
 
-    public void setDeadline(Date deadline) {
+    public void setDeadline(LocalDate deadline) {
         this.deadline = deadline;
     }
 
