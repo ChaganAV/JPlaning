@@ -8,14 +8,14 @@ public class View {
         App app = (App)applic;
         System.out.println("1 - добавить заметку");
         System.out.println("2 - вывести заметки");
-        System.out.println("3 - вывести по дедлайну");
-        System.out.println("4 - вывести по важность");
-        System.out.println("5 - выход");
+        //System.out.println("3 - вывести по дедлайну");
+        System.out.println("3 - вывести по важности");
+        System.out.println("4 - выход");
         Scanner scanner = new Scanner(System.in);
         Boolean quit = true;
         while (quit){
-            System.out.println("Введите номер команды:" );
-            System.out.println(">> ");
+            System.out.println("Введите номер команды: " );
+            //System.out.println(">> ");
             String input = scanner.nextLine();
             switch (input){
                 case "1":
@@ -25,14 +25,24 @@ public class View {
                     line.setDate(date);
                     LocalTime time = LocalTime.now();
                     line.setTime(time);
+
                     line.setLevel(2);
-                    System.out.println("Введите наименование заметки:");
-                    System.out.println(">> ");
+                    System.out.println("Введите наименование заметки: ");
+                    //System.out.println(">> ");
                     input = scanner.nextLine();
                     line.setNote(input);
+                    System.out.println("Введите приоритет (1,2,3): ");
+                    //System.out.println(">> ");
+                    input = scanner.nextLine();
+                    try {
+                        int level = Integer.parseInt(input);
+                        line.setLevel(level);
+                    }catch (NumberFormatException ex){
+                        System.out.println(ex.getMessage());
+                    }
                     LocalDate deadline;
-                    System.out.println("Введите количество дней для выполнения:");
-                    System.out.println(">> ");
+                    System.out.println("Введите количество дней для выполнения: ");
+                    //System.out.println(">> ");
                     input = scanner.nextLine();
                     try {
                         int day = Integer.parseInt(input);
@@ -55,12 +65,19 @@ public class View {
                     break;
                 case "2":
                     try {
-                        app.select();
+                        app.select(input);
                     }catch (IOException e){
                         System.out.println(e.getMessage());
                     }
                     break;
-                case "5":
+                case "3":
+                    try {
+                        app.select(input);
+                    }catch (IOException e){
+                        System.out.println(e.getMessage());
+                    }
+                    break;
+                case "4":
                     quit = false;
                     break;
             }

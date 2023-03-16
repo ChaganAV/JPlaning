@@ -3,6 +3,7 @@ import java.time.LocalDate;
 import java.time.LocalTime;
 import java.util.ArrayList;
 import java.util.Calendar;
+import java.util.Collections;
 import java.util.List;
 
 public class App implements IApp{
@@ -22,11 +23,18 @@ public class App implements IApp{
     public void update(int item){
 
     }
-    public void select() throws IOException{
-            List<Line> lines = repository.getRepository();
+    public void select(String sortItem) throws IOException{
+        List<Line> lines = repository.getRepository();
+        if(sortItem.equals("2")) {
             for (Line l : lines) {
-                System.out.println(String.format("%d %s %s %s %s", l.getId(), l.getDate().toString(), l.getNote(), l.getDeadline().toString(), l.getAutor()));
+                System.out.println(String.format("%d %s (%d) %s %s %s", l.getId(), l.getDate().toString(), l.getLevel(), l.getNote(), l.getDeadline().toString(), l.getAutor()));
             }
+        }else {
+            Collections.sort(lines,new LevelComparator());
+            for(Line l: lines){
+                System.out.println(String.format("%d %s (%d) %s %s %s", l.getId(), l.getDate().toString(), l.getLevel(), l.getNote(), l.getDeadline().toString(), l.getAutor()));
+            }
+        }
     }
     public void delete(int item){
 
